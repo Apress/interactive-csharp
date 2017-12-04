@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\bin\Debug\PalindromeEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\bin\Debug\PalindromeEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\bin\Debug\PalindromeEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\obj\Debug\PalindromeEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\obj\Debug\PalindromeEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PalindromeEx1\obj\Debug\PalindromeEx1.csprojResolveAssemblyReference.cache

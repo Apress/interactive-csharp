@@ -1,0 +1,10 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\obj\Debug\InterfaceEx5.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\obj\Debug\InterfaceEx5.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\bin\Debug\InterfaceEx5.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\obj\Debug\InterfaceEx5.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\InterfaceEx5\obj\Debug\InterfaceEx5.pdb

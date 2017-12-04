@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\bin\Debug\GenericEx4.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\bin\Debug\GenericEx4.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\bin\Debug\GenericEx4.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\obj\Debug\GenericEx4.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\obj\Debug\GenericEx4.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericEx4\obj\Debug\GenericEx4.pdb

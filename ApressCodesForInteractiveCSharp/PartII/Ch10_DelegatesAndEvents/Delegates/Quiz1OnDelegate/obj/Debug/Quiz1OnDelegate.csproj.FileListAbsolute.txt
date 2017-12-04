@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\bin\Debug\Quiz1OnDelegate.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\bin\Debug\Quiz1OnDelegate.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\bin\Debug\Quiz1OnDelegate.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\obj\Debug\Quiz1OnDelegate.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\obj\Debug\Quiz1OnDelegate.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Quiz1OnDelegate\obj\Debug\Quiz1OnDelegate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\bin\Debug\RectangularArrayEx.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\bin\Debug\RectangularArrayEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\bin\Debug\RectangularArrayEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\obj\Debug\RectangularArrayEx.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\obj\Debug\RectangularArrayEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\RectangularArrayEx\obj\Debug\RectangularArrayEx.pdb

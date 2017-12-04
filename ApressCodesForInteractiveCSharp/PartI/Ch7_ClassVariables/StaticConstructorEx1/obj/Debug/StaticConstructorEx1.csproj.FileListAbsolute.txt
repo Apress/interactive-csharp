@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\bin\Debug\StaticConstructorEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\bin\Debug\StaticConstructorEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\bin\Debug\StaticConstructorEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\obj\Debug\StaticConstructorEx1.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\obj\Debug\StaticConstructorEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\StaticConstructorEx1\obj\Debug\StaticConstructorEx1.pdb

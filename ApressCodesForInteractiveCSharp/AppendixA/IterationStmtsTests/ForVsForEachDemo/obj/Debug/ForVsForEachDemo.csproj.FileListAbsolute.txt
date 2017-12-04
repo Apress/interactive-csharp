@@ -1,0 +1,5 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ForVsForEachDemo\bin\Debug\ForVsForEachDemo.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ForVsForEachDemo\bin\Debug\ForVsForEachDemo.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ForVsForEachDemo\bin\Debug\ForVsForEachDemo.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ForVsForEachDemo\obj\Debug\ForVsForEachDemo.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ForVsForEachDemo\obj\Debug\ForVsForEachDemo.pdb

@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\bin\Debug\ExceptionEx1Modified.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\bin\Debug\ExceptionEx1Modified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\bin\Debug\ExceptionEx1Modified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\obj\Debug\ExceptionEx1Modified.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\obj\Debug\ExceptionEx1Modified.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ExceptionEx1Modified\obj\Debug\ExceptionEx1Modified.csprojResolveAssemblyReference.cache

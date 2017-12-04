@@ -1,0 +1,10 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\obj\Debug\IsOperatorDemo.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\obj\Debug\IsOperatorDemo.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\bin\Debug\IsOperatorDemo.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\obj\Debug\IsOperatorDemo.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\IsOperatorDemo\obj\Debug\IsOperatorDemo.pdb

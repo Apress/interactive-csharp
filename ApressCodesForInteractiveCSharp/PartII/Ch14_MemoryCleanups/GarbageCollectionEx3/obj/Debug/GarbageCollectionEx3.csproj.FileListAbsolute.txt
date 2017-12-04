@@ -1,0 +1,5 @@
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GarbageCollectionEx3\bin\Debug\GarbageCollectionEx3.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GarbageCollectionEx3\bin\Debug\GarbageCollectionEx3.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GarbageCollectionEx3\bin\Debug\GarbageCollectionEx3.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GarbageCollectionEx3\obj\Debug\GarbageCollectionEx3.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GarbageCollectionEx3\obj\Debug\GarbageCollectionEx3.pdb

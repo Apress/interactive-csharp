@@ -1,0 +1,15 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\bin\Debug\AbstractClassEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\AbstractClassEx1\obj\Debug\AbstractClassEx1.pdb

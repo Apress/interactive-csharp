@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\bin\Debug\SingletonPatternEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\obj\Debug\SingletonPatternEx.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\obj\Debug\SingletonPatternEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\DesignPatternsInC#\DesignPatternsInCSharp\SingletonPatternEx\obj\Debug\SingletonPatternEx.pdb

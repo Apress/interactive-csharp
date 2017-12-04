@@ -1,0 +1,16 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\bin\Debug\Test4_Property.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\Test4_Property\obj\Debug\Test4_Property.pdb

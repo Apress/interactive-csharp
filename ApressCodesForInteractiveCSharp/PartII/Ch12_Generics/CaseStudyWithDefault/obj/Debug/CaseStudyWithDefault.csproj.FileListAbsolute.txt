@@ -1,0 +1,6 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\bin\Debug\CaseStudyWithDefault.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\bin\Debug\CaseStudyWithDefault.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\bin\Debug\CaseStudyWithDefault.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\obj\Debug\CaseStudyWithDefault.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\obj\Debug\CaseStudyWithDefault.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\CaseStudyWithDefault\obj\Debug\CaseStudyWithDefault.pdb

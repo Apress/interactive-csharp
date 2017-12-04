@@ -1,0 +1,5 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericProgrammingEx1\bin\Debug\GenericProgrammingEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericProgrammingEx1\bin\Debug\GenericProgrammingEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericProgrammingEx1\bin\Debug\GenericProgrammingEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericProgrammingEx1\obj\Debug\GenericProgrammingEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\GenericProgrammingEx1\obj\Debug\GenericProgrammingEx1.pdb

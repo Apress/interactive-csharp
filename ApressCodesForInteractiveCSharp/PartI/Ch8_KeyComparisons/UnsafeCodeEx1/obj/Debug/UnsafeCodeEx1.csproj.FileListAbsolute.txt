@@ -1,0 +1,16 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\bin\Debug\UnsafeCodeEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\UnsafeCodeEx1\obj\Debug\UnsafeCodeEx1.pdb

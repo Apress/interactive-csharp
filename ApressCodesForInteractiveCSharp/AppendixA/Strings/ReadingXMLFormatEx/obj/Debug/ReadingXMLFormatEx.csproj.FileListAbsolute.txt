@@ -1,0 +1,5 @@
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ReadingXMLFormatEx\bin\Debug\ReadingXMLFormatEx.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ReadingXMLFormatEx\bin\Debug\ReadingXMLFormatEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ReadingXMLFormatEx\bin\Debug\ReadingXMLFormatEx.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ReadingXMLFormatEx\obj\Debug\ReadingXMLFormatEx.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\ReadingXMLFormatEx\obj\Debug\ReadingXMLFormatEx.pdb

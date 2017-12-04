@@ -1,0 +1,17 @@
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe.config
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.pdb
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.csprojResolveAssemblyReference.cache
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.exe
+C:\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\bin\Debug\DelegateEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.csprojResolveAssemblyReference.cache
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\DelegateEx1\obj\Debug\DelegateEx1.pdb

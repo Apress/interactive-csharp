@@ -1,0 +1,10 @@
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\obj\Debug\EventAccessorsEx1.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\obj\Debug\EventAccessorsEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\bin\Debug\EventAccessorsEx1.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\obj\Debug\EventAccessorsEx1.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\EventAccessorsEx1\obj\Debug\EventAccessorsEx1.pdb

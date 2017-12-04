@@ -1,0 +1,10 @@
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\obj\Debug\QuizOnPrivateSet.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\obj\Debug\QuizOnPrivateSet.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\bin\Debug\QuizOnPrivateSet.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\obj\Debug\QuizOnPrivateSet.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\QuizOnPrivateSet\obj\Debug\QuizOnPrivateSet.pdb

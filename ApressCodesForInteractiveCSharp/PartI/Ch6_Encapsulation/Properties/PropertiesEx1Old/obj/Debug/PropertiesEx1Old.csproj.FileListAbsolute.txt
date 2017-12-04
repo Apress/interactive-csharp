@@ -1,0 +1,10 @@
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.exe.config
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.pdb
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\obj\Debug\PropertiesEx1Old.exe
+C:\Feluda_new16oct14\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\obj\Debug\PropertiesEx1Old.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.exe.config
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\bin\Debug\PropertiesEx1Old.pdb
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\obj\Debug\PropertiesEx1Old.exe
+C:\Feluda_June12,2017Onwards\MyPrograms\CSharpProgs\CSharpBasicsProgs\InteractiveCSharpSolution\PropertiesEx1Old\obj\Debug\PropertiesEx1Old.pdb
