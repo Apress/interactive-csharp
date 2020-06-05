@@ -10,19 +10,19 @@ namespace Test1_FuncVsActionVsPredicate
             //Func
             Console.WriteLine("<---Using Func--->");
             Func<string, int, string> student = new Func<string, int, string>(ShowStudent);
-            Console.WriteLine(ShowStudent("Amit", 1));
-            Console.WriteLine(ShowStudent("Sumit", 2));
+            Console.WriteLine(student("Amit", 1));
+            Console.WriteLine(student("Sumit", 2));
             //Action
             Console.WriteLine("<---Using Action--->");
             Action<int, int, int> sum = new Action<int, int, int>(SumOfThreeNumbers);
-            SumOfThreeNumbers(10, 3, 7);
-            SumOfThreeNumbers(5, 10, 15);
+            sum(10, 3, 7);
+            sum(5, 10, 15);
 
             //Predicate
             Console.WriteLine("<---Using Predicate--->");
             Predicate<int> isGreater = new Predicate<int>(GreaterThan100);
-            Console.WriteLine("125 is greater than 100? {0}", GreaterThan100(125));
-            Console.WriteLine("60 is greater than 100? {0}", GreaterThan100(60));
+            Console.WriteLine("125 is greater than 100? {0}", isGreater(125));
+            Console.WriteLine("60 is greater than 100? {0}", isGreater(60));
 
             Console.ReadKey();
         }
